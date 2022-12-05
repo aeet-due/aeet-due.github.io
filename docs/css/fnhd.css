@@ -576,8 +576,8 @@ div.navi a, div.navi b, span.navi_trenner {
   padding-right: 0.5ex;
 }
 
-span.navi_trenner::before {
-  content: " · ";
+span.navi_trenner_stark::before {
+  content: " • ";
 }
 
 
