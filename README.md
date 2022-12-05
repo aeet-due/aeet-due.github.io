@@ -1,4 +1,4 @@
-# Naproche.net web site
+# AEET web site
 
 Content is served from `docs`.
 
