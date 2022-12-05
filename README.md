@@ -6,4 +6,4 @@ Basically, this site is generated from Scripts.
 
 Intended to be deployed at <https://aeet-due.github.io/> for the moment.
 
-Note: The `downloads` directory is not mirrored in the generation script repository. It mainly contains documents from Naproche's early stages.
+Note: PDFs and similar assets are not mirrored.
