@@ -836,7 +836,7 @@ div.references div, div.references p{
 }
 
 .figure p {
-  text-align: justified;
+  text-align: justify;
 }
 
 table {
@@ -875,7 +875,7 @@ div.references div, div.references p{
 }
 
 .figure p {
-  text-align: justified;
+  text-align: justify;
 }
 
 table {
@@ -913,7 +913,7 @@ div.references div, div.references p{
 }
 
 .figure p {
-  text-align: justified;
+  text-align: justify;
 }
 
 table {
@@ -1021,6 +1021,7 @@ p, li {
 
   p, li {
     text-align: justify;
+    hyphens: auto;
     
   }
   
