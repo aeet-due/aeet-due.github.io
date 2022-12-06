@@ -5,7 +5,7 @@ div.outer_container{
 }
 
 div.mid_container, .navirahmen, div.inner_container {
-  max-width: 51em;
+  max-width: 51rem;
   height: auto;
   margin: 0 auto;
   position: relative;
