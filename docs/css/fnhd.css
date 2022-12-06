@@ -1023,7 +1023,7 @@ p, li {
   
 }
 
-@media (min-width: 45em) {
+@media (min-width: 51em) {
 
   p, li {
     text-align: justify;
