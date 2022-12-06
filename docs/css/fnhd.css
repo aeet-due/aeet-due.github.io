@@ -445,6 +445,9 @@ a.text {
   font-weight: bolder;
   font-size: 150%;
 }
+h1.title {
+  text-align: center;
+}
 h1.subtitle{
   font-size: 120%;
   letter-spacing: 0.25ex;
