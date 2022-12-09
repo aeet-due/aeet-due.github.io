@@ -1025,7 +1025,7 @@ p, li {
 
 @media (min-width: 51em) {
 
-  p, li {
+  p, li, a {
     text-align: justify;
     hyphens: auto;
     -webkit-hyphens: auto;
