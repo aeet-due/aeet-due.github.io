@@ -854,15 +854,15 @@ td.count {
   font-weight: bold;
 }
 
-div.references{
+div.references, div.cite_as{
   font-size: small;
   letter-spacing: 0.05ex;
 }
-div.references div{
+div.references div, div.cite_as div{
   padding-left: 2em ;
   text-indent: -2em ;
 }
-div.references div, div.references p{
+div.references div, div.references p, div.cite_as div, div.cite_as p{
   margin: 0;
   padding-top: 0;
   padding-bottom: 0;
@@ -1021,6 +1021,11 @@ nav a {
 p, li {
   text-align: left;
   
+}
+
+.vortrag strong {
+  display: block;
+  color: #304090;
 }
 
 @media (min-width: 51em) {
