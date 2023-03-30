@@ -476,6 +476,12 @@ h2.author ~ div {
   margin-top: 3em;
 }
 
+.programm h1,
+.programm h2,
+.programm h3 {
+  text-align: left;
+}
+
 .emph {
   font-weight:bold;
 }
