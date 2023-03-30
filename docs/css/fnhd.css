@@ -920,6 +920,7 @@ div.references div, div.references p{
 }
 
 @media print {
+  nav,
   div.navirahmen, 
   div.Informationen {
     display: none;
