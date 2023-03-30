@@ -1038,7 +1038,14 @@ p, li {
 
 .vortrag strong {
   display: block;
+  text-align: left;
   color: #304090;
+}
+
+span.subtitle {
+  display: block;
+  font-weight: normal;
+  text-align: left;
 }
 
 @media (min-width: 51em) {
