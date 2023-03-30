@@ -453,9 +453,16 @@ a.text {
 h1.title {
   text-align: center;
 }
-h1.subtitle{
+h1.subtitle {
   margin-top: 0;
-  font-size: 120%;
+}
+h1.supertitle {
+  text-align: right;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+h1.subtitle, h1.supertitle {
+    font-size: 120%;
   letter-spacing: 0.25ex;
 }
 .ueberschrift, .title, .subtitle, h1.haupttitel, h2.author{
