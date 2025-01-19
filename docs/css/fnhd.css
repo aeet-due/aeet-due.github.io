@@ -1105,3 +1105,7 @@ nav .submenu li {
   padding: 1ex;
   /* width: 15em; */
 }
+
+.number_oriented {
+  font-variant-numeric: tabular-nums;
+}
