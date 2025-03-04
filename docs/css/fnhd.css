@@ -1037,6 +1037,11 @@ p, li {
   
 }
 
+.entfallen {
+  color: darkred;
+  text-decoration: line-through;
+}
+
 .vortrag strong {
   display: block;
   text-align: left;
